@@ -63,7 +63,7 @@ Specialized in **.NET (ASP.NET Core), Angular, and scalable system design**, wit
 ### 🧠 Architecture & AI
 
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=microservices" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,redis" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=graphql" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/></a>
 </p>
